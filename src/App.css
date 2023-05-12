@@ -1,0 +1,37 @@
+a {
+  text-decoration: none !important;
+  color: inherit !important;
+}
+
+.d-block {
+  width:100%;
+  justify-content: center;
+   align-items: center;
+ min-height: 100vh;
+}
+
+.btn-secondary {
+    background-color: white;
+    color: black;
+    border-color: #fff ;
+}
+.btn-secondary:hover {
+  color: #111;
+   background-color: #fff;
+   border-color: #fff;
+}
+
+
+.features {
+  background-color: #A9A9A9;
+  text-align: center;
+  align-items: center;
+  color: #111;
+  min-height: 100vh;
+  padding: 6%;
+ /*#A9A9A9 */
+}
+.img-logo {
+  width: 50%;
+  border-radius: 100%;
+}
